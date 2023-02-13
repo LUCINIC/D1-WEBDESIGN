@@ -1,0 +1,79 @@
+
+
+#hero h1 {  color: aliceblue;
+    
+  } 
+
+
+  navbar {
+    margin: 0;
+    padding: 0 20px;
+  } 
+
+
+  a[href*='Continua a leggere'] {
+
+  }
+  
+
+  .blog-post:first-child {
+    
+  } 
+
+
+  .blog-post:first-child hr {
+    color: red;
+  } 
+
+
+  nav a:nth-child(even) {
+    
+  } 
+
+
+  ol li:nth-child(2) {
+    
+  }
+  
+
+
+  .blog-post:nth-child(2) .blog-post-meta a {
+
+  }
+  
+
+
+  .blog-post:nth-of-type(3) ul li:nth-of-type(2) {
+    
+ } 
+
+
+ a.float-right.mb-3.mr-3 {
+   
+ } 
+
+
+ a.btn.btn-outline-secondary.disabled {
+
+ }
+    
+
+ footer.text-center a:nth-of-type(2) {
+   
+ } 
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+  
+
+
+
+  
